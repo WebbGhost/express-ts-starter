@@ -60,7 +60,6 @@ module.exports = {
     'no-void': 'error',
     'prefer-const': 'warn',
     'no-console': 'off',
-    'import/no-extraneous-dependencies': 'off',
   },
   settings: {
     jsdoc: {

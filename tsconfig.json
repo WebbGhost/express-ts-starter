@@ -11,5 +11,5 @@
     "target": "es2022",
     "skipLibCheck": true
   },
-  "include": ["src", ".eslintrc.js"]
+  "include": ["src", "./.eslintrc.js"]
 }
